@@ -1,0 +1,22 @@
+tsc/internal/printer/printer.go
+  s_18fa6179ef49dc::t_b3869cd54014ce 3258-3262
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "d5bf82b6d766d75785a832b95216b15a7950c7ff",
+  "prompts": {},
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "overridden_lines": 0
+    }
+  }
+}
