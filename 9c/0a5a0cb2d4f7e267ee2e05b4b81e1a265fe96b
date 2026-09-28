@@ -1,0 +1,36 @@
+tsc/internal/checker/checker.go
+  s_18fa6179ef49dc::t_adc56f77f14793 32384-32387
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "9c0a5a0cb2d4f7e267ee2e05b4b81e1a265fe96b",
+  "prompts": {},
+  "humans": {
+    "h_5b20c3043ae26d": {
+      "author": "Chenxu Lu <luchenxu1@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 4,
+      "total_deletions": 1,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_adc56f77f14793": "kimi-k3"
+      },
+      "model_totals": {
+        "kimi-k3": {
+          "additions": 4,
+          "deletions": 1
+        }
+      }
+    }
+  }
+}
