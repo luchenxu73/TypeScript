@@ -1,0 +1,22 @@
+tsc/internal/transformers/declarations/tracker.go
+  s_18fa6179ef49dc::t_fbffd88b7d0725 64-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "4e413ef45d4ddce5471e741177d8e5c33b449a82",
+  "prompts": {},
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "overridden_lines": 0
+    }
+  }
+}
