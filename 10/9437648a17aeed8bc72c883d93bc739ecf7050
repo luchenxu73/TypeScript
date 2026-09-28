@@ -1,0 +1,22 @@
+tsc/internal/checker/emitresolver.go
+  s_18fa6179ef49dc::t_60959455617dff 312-315
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "109437648a17aeed8bc72c883d93bc739ecf7050",
+  "prompts": {},
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "overridden_lines": 0
+    }
+  }
+}
