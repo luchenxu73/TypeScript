@@ -1,0 +1,46 @@
+tsc/testdata/tests/cases/compiler/declarationEmitPrivateMethodSignatures.ts
+  s_18fa6179ef49dc::t_872e1d14af0616 1-19
+tsc/testdata/baselines/reference/compiler/declarationEmitPrivateMethodSignatures.js
+  s_18fa6179ef49dc::t_872e1d14af0616 1-41
+tsc/internal/transformers/declarations/transform.go
+  s_18fa6179ef49dc::t_872e1d14af0616 1100-1117
+tsc/testdata/baselines/reference/compiler/declarationEmitPrivateMethodSignatures.symbols
+  s_18fa6179ef49dc::t_872e1d14af0616 1-48
+tsc/testdata/baselines/reference/compiler/declarationEmitPrivateMethodSignatures.errors.txt
+  s_18fa6179ef49dc::t_872e1d14af0616 1-26
+tsc/testdata/baselines/reference/compiler/declarationEmitPrivateMethodSignatures.types
+  s_18fa6179ef49dc::t_872e1d14af0616 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "5cb1422c1930d3ee49951a64926713981598159f",
+  "prompts": {},
+  "humans": {
+    "h_5b20c3043ae26d": {
+      "author": "Chenxu Lu <luchenxu1@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 193,
+      "total_deletions": 7,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_872e1d14af0616": "kimi-k3"
+      },
+      "model_totals": {
+        "kimi-k3": {
+          "additions": 193,
+          "deletions": 7
+        }
+      }
+    }
+  }
+}
