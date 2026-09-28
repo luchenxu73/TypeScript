@@ -1,0 +1,46 @@
+tsc/testdata/baselines/reference/compiler/isolatedModulesMergedImportAlias(isolatedmodules=false,verbatimmodulesyntax=true).errors.txt
+  s_18fa6179ef49dc::t_9257e68e9fc3af 1-37
+tsc/testdata/tests/cases/compiler/isolatedModulesMergedImportAlias.ts
+  s_18fa6179ef49dc::t_9257e68e9fc3af 1-26
+tsc/testdata/baselines/reference/compiler/isolatedModulesMergedImportAlias(isolatedmodules=false,verbatimmodulesyntax=false).errors.txt
+  s_18fa6179ef49dc::t_9257e68e9fc3af 1-31
+tsc/internal/checker/checker.go
+  s_18fa6179ef49dc::t_9257e68e9fc3af 7015-7019
+tsc/testdata/baselines/reference/compiler/isolatedModulesMergedImportAlias(isolatedmodules=true,verbatimmodulesyntax=false).errors.txt
+  s_18fa6179ef49dc::t_9257e68e9fc3af 1-37
+tsc/testdata/baselines/reference/compiler/isolatedModulesMergedImportAlias(isolatedmodules=true,verbatimmodulesyntax=true).errors.txt
+  s_18fa6179ef49dc::t_9257e68e9fc3af 1-37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "6c735c03b5e3d7c33504a0700236fca1aae1ba48",
+  "prompts": {},
+  "humans": {
+    "h_5b20c3043ae26d": {
+      "author": "Chenxu Lu <luchenxu1@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 173,
+      "total_deletions": 3,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_9257e68e9fc3af": "kimi-k3"
+      },
+      "model_totals": {
+        "kimi-k3": {
+          "additions": 173,
+          "deletions": 3
+        }
+      }
+    }
+  }
+}
