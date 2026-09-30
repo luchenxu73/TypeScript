@@ -1,0 +1,70 @@
+tsc/internal/transformers/moduletransforms/commonjsmodule.go
+  s_5124d0a4830277::t_8d265d19a93312 1263-1266,1270
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "18ac07c1144ca83a4848beb5b6fd0196d31a756c",
+  "prompts": {},
+  "humans": {
+    "h_5b20c3043ae26d": {
+      "author": "Chenxu Lu <luchenxu1@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_18fa6179ef49dc": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1a59e319ffeqLy9ejPaHtDHVA",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 1362,
+      "total_deletions": 112,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_1e782cdebdf0ce": "kimi-k3",
+        "t_4cf6edcd19e0c9": "kimi-k3",
+        "t_57a2abf348f657": "kimi-k3",
+        "t_67256b916d0d76": "kimi-k3",
+        "t_8bde42a67f09f2": "kimi-k3",
+        "t_9fb590d934d130": "kimi-k3",
+        "t_ceb59e72273fa7": "kimi-k3",
+        "t_d81c89dc11d7ee": "kimi-k3",
+        "t_de5438af5b23e7": "kimi-k3",
+        "t_e2a6469c4c51f1": "kimi-k3"
+      },
+      "model_totals": {
+        "kimi-k3": {
+          "additions": 1362,
+          "deletions": 112
+        }
+      }
+    },
+    "s_5124d0a4830277": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f0fd1a9d3ffeFbxuETsGX5OGUY",
+        "model": "kimi-k3"
+      },
+      "human_author": "Chenxu Lu <luchenxu1@huawei.com>",
+      "total_additions": 43,
+      "total_deletions": 10,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_19e7e88180a16f": "kimi-k3",
+        "t_2599e323d4fe3b": "kimi-k3",
+        "t_8d265d19a93312": "kimi-k3",
+        "t_9710a246216128": "kimi-k3",
+        "t_bb15ee8c0bf031": "kimi-k3",
+        "t_e77d03ead5fcf7": "kimi-k3"
+      },
+      "model_totals": {
+        "kimi-k3": {
+          "additions": 43,
+          "deletions": 10
+        }
+      }
+    }
+  }
+}
